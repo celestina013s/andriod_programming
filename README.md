@@ -1,4 +1,4 @@
 # andriod_programming
-First repository
+My first andriod project(repository) 
 Hi andriod lovers;
 Celestina here; I want to learn andriod programming.
